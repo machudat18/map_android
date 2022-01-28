@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Đạt, Thái, Long Map</string>
+
+    <string name="google_maps_api_key">AIzaSyC7E777Gjik92Nga9WD83SeYZ9CutSoy4A</string>
+
+    <string name="edit_text_hint_title">Tiêu đề</string>
+    <string name="edit_text_hint_description">Description</string>
+    <string name="edit_text_hint_date">Date</string>
+    <string name="edit_text_hint_location">Vị trí</string>
+    <string name="text_add_image">Thêm ảnh</string>
+    <string name="btn_text_save">Lưu</string>
+
+    <string name="note_text_no_happy_places_found_yet_kindly_add_one">Chưa có dữ liệu</string>
+    <string name="image_content_description">Ảnh</string>``
+
+    <string name="btn_text_view_on_map">Xem trên bản đồ</string>
+    <string name="add_place_select_current_location_text">Chọn vị trí hiện tại</string>
+</resources>
